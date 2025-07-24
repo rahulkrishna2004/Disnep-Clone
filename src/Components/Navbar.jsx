@@ -54,19 +54,14 @@ const Navbar = () => {
             )}
           </div>
         </div>
-
-
-
         {/* Mobile Menu Button */}
         <div className="flex space-x-5 items-center">
           <div className="theme md:h-8 md:w-16 h-6 w-12 bg-amber-50 rounded-full p-1 flex items-center">
             <div className="h-5 w-5 md:h-6 md:w-6 rounded-full bg-black" />
           </div>
-
         </div>
       </div>
     </div>
   );
 };
-
 export default Navbar;
