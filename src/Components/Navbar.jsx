@@ -25,7 +25,7 @@ const Navbar = () => {
         <img
           src={logo}
           alt="disneplogo"
-          className="logo h-full w-auto object-contain"
+          className=" h-full w-auto object-contain"
         />
 
         <div className="flex gap-5">
